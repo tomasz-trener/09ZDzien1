@@ -1,0 +1,7 @@
+﻿
+zad1 
+Wczytaj dowolny ciag testkowy z konsoli 
+
+1) wypisz ile ma znakow
+2) zamien tylko pierwsza i ostatnia litere na dużę , pozostałe na małe. 
+
